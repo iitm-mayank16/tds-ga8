@@ -5,7 +5,7 @@ def FindLargestNumber(numbers):
     return max(numbers)
 
 def main():
-    st.title("Find the Largest Among Three Numbers")
+    st.title("Find the Largest Number")
     st.write("Please input three numbers.")
 
     # Input fields for three numbers
